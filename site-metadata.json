@@ -1,21 +1,21 @@
 {
-    "header": {
-        "logo_img": "images/logo.png",
-        "tagline": "Minimal and clean blog theme",
-        "bg_img": "images/header-bg.jpg",
-        "has_nav": true,
-        "has_social": true
-    },
-    "footer": {
-        "content": "&copy; Stackbit-Fjord. All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
-    },
-    "palette": "yellow",
-    "title": "Stackbit Fjord Theme"
+  "title": "Kamil Wojtczyk",
+  "palette": "blue",
+  "header": {
+    "tagline": "Minimal and clean blog theme",
+    "logo_img": "/images/wojtczyknet_005.png",
+    "bg_img": "/images/kamil_new_vertical.jpg",
+    "has_nav": true,
+    "has_social": true
+  },
+  "footer": {
+    "content": "&copy; Kamil Wojtczyk. All rights reserved.",
+    "links": [
+      {
+        "text": "Made with Stackbit",
+        "url": "https://www.stackbit.com",
+        "new_window": true
+      }
+    ]
+  }
 }
